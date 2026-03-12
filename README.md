@@ -32,7 +32,7 @@
 ## 构建与运行
 1. 克隆仓库：
 ```bash
-git clone <repo-url>
+git clone https://github.com/asunazxr/gsViewer.git
 cd ml_sharp
 ```
 
